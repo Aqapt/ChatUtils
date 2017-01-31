@@ -1,0 +1,11 @@
+name: ChatUtils
+main: com.diviniummc.core.plugin.Divinium
+version: 1.0
+author: Aqapt
+description: Little plugin
+
+commands: 
+  pcc:
+    description: CLear player chat
+    usage: /pcc
+    permission: cu.pcc
